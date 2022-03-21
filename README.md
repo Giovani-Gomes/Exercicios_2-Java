@@ -1,5 +1,5 @@
-- [x] [Exercício 01 - Faça um Programa que peça dois números e imprima o maior deles.]()
-- [x] [Exercício 02- Faça um Programa que peça um valor e mostre na tela se o valor é positivo ou negativo.]()
+- [x] [Exercício 01 - Faça um Programa que peça dois números e imprima o maior deles.](https://github.com/Giovani-Gomes/Exercicios_2-Java/tree/main/Exerc%C3%ADcio%2001)
+- [x] [Exercício 02- Faça um Programa que peça um valor e mostre na tela se o valor é positivo ou negativo.](https://github.com/Giovani-Gomes/Exercicios_2-Java/tree/main/Exerc%C3%ADcio%2002)
 - [] [Exercício 03 - Faça um Programa que verifique se uma letra digitada é "F" ou "M". Conforme a letra escrever: F - Feminino, M - Masculino, Sexo Inválido]()
 - [] [Exercício 04 - Faça um Programa que verifique se uma letra digitada é vogal ou consoante.]()
 - [] [Exercício 05 - Faça um programa para a leitura de duas notas parciais de um aluno. O programa deve calcular a média alcançada por aluno e apresentar:<br>
