@@ -4,10 +4,10 @@
 - [x] [Exercício 02- Faça um Programa que peça um valor e mostre na tela se o valor é positivo ou negativo.](https://github.com/Giovani-Gomes/Exercicios_2-Java/tree/main/Exerc%C3%ADcio%2002)
 - [x] [Exercício 03 - Faça um Programa que verifique se uma letra digitada é "F" ou "M". Conforme a letra escrever: F - Feminino, M - Masculino, Sexo Inválido](https://github.com/Giovani-Gomes/Exercicios_2-Java/tree/main/Exerc%C3%ADcio%2003)
 - [x] [Exercício 04 - Faça um Programa que verifique se uma letra digitada é vogal ou consoante.](https://github.com/Giovani-Gomes/Exercicios_2-Java/tree/main/Exerc%C3%ADcio%2004)
-- [] [Exercício 05 - Faça um programa para a leitura de duas notas parciais de um aluno. O programa deve calcular a média alcançada por aluno e apresentar:<br>
+- [x] [Exercício 05 - Faça um programa para a leitura de duas notas parciais de um aluno. O programa deve calcular a média alcançada por aluno e apresentar:<br>
     -A mensagem "Aprovado", se a média alcançada for maior ou igual a sete; <br>
     -A mensagem "Reprovado", se a média for menor do que sete; <br>
-    -A mensagem "Aprovado com Distinção", se a média for igual a dez.]()
+    -A mensagem "Aprovado com Distinção", se a média for igual a dez.](https://github.com/Giovani-Gomes/Exercicios_2-Java/tree/main/Exerc%C3%ADcio%2005)
 - [] [Exercício 06 - Faça um Programa que leia três números e mostre o maior deles.]()
 - [] [Exercício 07 - Faça um Programa que leia três números e mostre o maior e o menor deles.]()
 - [] [Exercício 08 - Faça um programa que pergunte o preço de três produtos e informe qual produto você deve comprar, sabendo que a decisão é sempre pelo mais barato.]()
