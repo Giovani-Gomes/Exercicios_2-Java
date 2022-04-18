@@ -8,7 +8,7 @@
     -A mensagem "Aprovado", se a média alcançada for maior ou igual a sete; <br>
     -A mensagem "Reprovado", se a média for menor do que sete; <br>
     -A mensagem "Aprovado com Distinção", se a média for igual a dez.](https://github.com/Giovani-Gomes/Exercicios_2-Java/tree/main/Exerc%C3%ADcio%2005)
-- [] [Exercício 06 - Faça um Programa que leia três números e mostre o maior deles.]()
+- [x] [Exercício 06 - Faça um Programa que leia três números e mostre o maior deles.](https://github.com/Giovani-Gomes/Exercicios_2-Java/tree/main/Exerc%C3%ADcio%2006)
 - [] [Exercício 07 - Faça um Programa que leia três números e mostre o maior e o menor deles.]()
 - [] [Exercício 08 - Faça um programa que pergunte o preço de três produtos e informe qual produto você deve comprar, sabendo que a decisão é sempre pelo mais barato.]()
 - [] [Exercício 09 - Faça um Programa que leia três números e mostre-os em ordem decrescente.]()
