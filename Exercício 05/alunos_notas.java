@@ -6,12 +6,10 @@ public class Main {
 
     public static void main(String[] args) {
         Double nota1,nota2, media;
-
-        System.out.print("Digite a Primeira nota: ");
         Scanner scan = new Scanner(System.in);
+        System.out.print("Digite a Primeira nota: ");
         nota1 = scan.nextDouble();
         System.out.print("Digite a Segunda nota: ");
-        Scanner scan2 = new Scanner(System.in);
         nota2 = scan.nextDouble();
 
         media = (nota1 + nota2) / 2;

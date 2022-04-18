@@ -5,11 +5,10 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
-        int num1,num2;
-
+        int num1;
+         Scanner scan = new Scanner(System.in);
         System.out.print("Informe o Primeiro número: ");
-        Scanner NUM1 = new Scanner(System.in);
-        num1= NUM1.nextInt();
+        num1= scan.nextInt();
 
         if (num1 < 0){
             System.out.println("Número Negativo");
