@@ -1,4 +1,4 @@
-# Exercicios 2 
+# Exercicios 2 <img align="center" alt="Java" height="50" width="" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 
 - [x] [Exercício 01 - Faça um Programa que peça dois números e imprima o maior deles.](https://github.com/Giovani-Gomes/Exercicios_2-Java/tree/main/Exerc%C3%ADcio%2001)
 - [x] [Exercício 02- Faça um Programa que peça um valor e mostre na tela se o valor é positivo ou negativo.](https://github.com/Giovani-Gomes/Exercicios_2-Java/tree/main/Exerc%C3%ADcio%2002)
