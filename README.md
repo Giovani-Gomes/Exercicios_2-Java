@@ -11,7 +11,7 @@
 - [x] [Exercício 06 - Faça um Programa que leia três números e mostre o maior deles.](https://github.com/Giovani-Gomes/Exercicios_2-Java/tree/main/Exerc%C3%ADcio%2006)
 - [x] [Exercício 07 - Faça um Programa que leia três números e mostre o maior e o menor deles.](https://github.com/Giovani-Gomes/Exercicios_2-Java/tree/main/Exerc%C3%ADcio%2007)
 - [] [Exercício 08 - Faça um programa que pergunte o preço de três produtos e informe qual produto você deve comprar, sabendo que a decisão é sempre pelo mais barato.]()
-- [] [Exercício 09 - Faça um Programa que leia três números e mostre-os em ordem decrescente.]()
+- [x] [Exercício 09 - Faça um Programa que leia três números e mostre-os em ordem decrescente.](https://github.com/Giovani-Gomes/Exercicios_2-Java/tree/main/Exerc%C3%ADcio%2009)
 - [] [Exercício 10 - Faça um Programa que pergunte em que turno você estuda. Peça para digitar M-matutino ou V-Vespertino ou N- Noturno. Imprima a mensagem "Bom Dia!", "Boa Tarde!" ou "Boa Noite!" ou "Valor Inválido!", conforme o caso.]()
 - [] [Exercício 11 -As Organizações Tabajara resolveram dar um aumento de salário aos seus colaboradores e lhe contraram para desenvolver o programa que calculará os reajustes.<br>
 	Faça um programa que recebe o salário de um colaborador e o reajuste segundo o seguinte critério, baseado no salário atual:<br>
