@@ -38,7 +38,7 @@
    Total de descontos | R$  165,00
    Salário Liquido |  R$  935,00
 
-	Link do Exercício 12 -  (https://github.com/Giovani-Gomes/Exercicios_2-Java/tree/main/Exercicio%2012)
+	Link do Exercício 12 -  (https://github.com/Giovani-Gomes/Exercicios_2-Java/tree/main/Exerc%C3%ADcio%2012)
     
    
 - [][Exercícios 13 - Faça um Programa que leia um número e exiba o dia correspondente da semana. (1-Domingo, 2- Segunda, etc.), se digitar outro valor deve aparecer valor inválido.]()
