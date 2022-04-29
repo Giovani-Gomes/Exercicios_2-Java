@@ -28,8 +28,7 @@
 	Salário Bruto até 900 (inclusive) - isento<br>
 	Salário Bruto até 1500 (inclusive) - desconto de 5%<br>
 	Salário Bruto até 2500 (inclusive) - desconto de 10%<br>
-	Salário Bruto acima de 2500](https://github.com/Giovani-Gomes/Exercicios_2-Java/tree/main/Exercicio%2012)
-    
+	Salário Bruto acima de 2500]
     IMPOSTOS | VALORES 
     :---: | ---: | 
    Salário Bruto: (5 * 220) |  R$ 1100,00
@@ -38,6 +37,8 @@
    FGTS (11%) |  R$  121,00
    Total de descontos | R$  165,00
    Salário Liquido |  R$  935,00
+
+	Link do Exercício 12 -  (https://github.com/Giovani-Gomes/Exercicios_2-Java/tree/main/Exercicio%2012)
     
    
 - [][Exercícios 13 - Faça um Programa que leia um número e exiba o dia correspondente da semana. (1-Domingo, 2- Segunda, etc.), se digitar outro valor deve aparecer valor inválido.]()
