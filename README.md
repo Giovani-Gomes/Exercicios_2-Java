@@ -13,7 +13,7 @@
 - [x] [Exercício 08 - Faça um programa que pergunte o preço de três produtos e informe qual produto você deve comprar, sabendo que a decisão é sempre pelo mais barato.](https://github.com/Giovani-Gomes/Exercicios_2-Java/tree/main/Exerc%C3%ADcio%2008)
 - [x] [Exercício 09 - Faça um Programa que leia três números e mostre-os em ordem decrescente.](https://github.com/Giovani-Gomes/Exercicios_2-Java/tree/main/Exerc%C3%ADcio%2009	)
 - [x] [Exercício 10 - Faça um Programa que pergunte em que turno você estuda. Peça para digitar M-matutino ou V-Vespertino ou N- Noturno. Imprima a mensagem "Bom Dia!", "Boa Tarde!" ou "Boa Noite!" ou "Valor Inválido!", conforme o caso.](https://github.com/Giovani-Gomes/Exercicios_2-Java/tree/main/Exerc%C3%ADcio%2010)
-- [] [Exercício 11 -As Organizações Tabajara resolveram dar um aumento de salário aos seus colaboradores e lhe contraram para desenvolver o programa que calculará os reajustes.<br>
+- [x] [Exercício 11 -As Organizações Tabajara resolveram dar um aumento de salário aos seus colaboradores e lhe contraram para desenvolver o programa que calculará os reajustes.<br>
 	Faça um programa que recebe o salário de um colaborador e o reajuste segundo o seguinte critério, baseado no salário atual:<br>
 	-Salários até R$ 280,00 (incluindo) : aumento de 20% <br>
 	-Salários entre R$ 280,00 e R$ 700,00 : aumento de 15%<br>
@@ -22,8 +22,8 @@
 	-O salário antes do reajuste;<br>
 	-O percentual de aumento aplicado;<br>
 	-O valor do aumento;<br>
-	-O novo salário, após o aumento.]()
-- [] [Exercício 12- Faça um programa para o cálculo de uma folha de pagamento, sabendo que os descontos são do Imposto de Renda, que depende do 	salário bruto (conforme tabela abaixo) e 3% para o Sindicato e que o FGTS corresponde a 11% do Salário Bruto, mas não é descontado 	(é a empresa que deposita). O Salário Líquido corresponde ao Salário Bruto menos os descontos. O programa deverá pedir ao usuário o 			valor da sua hora e a quantidade de horas trabalhadas no mês.<br>
+	-O novo salário, após o aumento.](https://github.com/Giovani-Gomes/Exercicios_2-Java/tree/main/Exerc%C3%ADcio%2011)
+- [] [Exercício 12- Faça um programa para o cálculo de uma folha de pagamento, sabendo que os descontos são do Imposto de Renda, que depende do 	salário bruto (conforme tabela abaixo) e 3% para o Sindicato e que o FGTS corresponde a 11% do Salário Bruto, mas não é descontado 	(é a empresa que deposita). O Salário Líquido corresponde ao Salário Bruto menos os descontos. O programa deverá pedir ao usuário o valor da sua hora e a quantidade de horas trabalhadas no mês.<br>
 	Desconto do IR: <br>
 	Salário Bruto até 900 (inclusive) - isento<br>
 	Salário Bruto até 1500 (inclusive) - desconto de 5%<br>
