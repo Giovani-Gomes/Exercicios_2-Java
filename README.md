@@ -28,12 +28,12 @@
 	Salário Bruto até 900 (inclusive) - isento<br>
 	Salário Bruto até 1500 (inclusive) - desconto de 5%<br>
 	Salário Bruto até 2500 (inclusive) - desconto de 10%<br>
-	Salário Bruto acima de 2500](https://github.com/Giovani-Gomes/Exercicios_2-Java/tree/main/Exerc%C3%ADcio%2013)
+	Salário Bruto acima de 2500](https://github.com/Giovani-Gomes/Exercicios_2-Java/tree/main/Exercicio%2012)
     
     IMPOSTOS | VALORES 
     :---: | ---: | 
    Salário Bruto: (5 * 220) |  R$ 1100,00
-   (-) IR (5%) |  R$   55,00  
+   (-) IR (5%) |  R$   55,00  	
    (-) INSS ( 10%) |  R$  110,00
    FGTS (11%) |  R$  121,00
    Total de descontos | R$  165,00
