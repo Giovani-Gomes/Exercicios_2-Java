@@ -57,7 +57,7 @@
 	-Três lados formam um triângulo quando a soma de quaisquer dois lados for maior que o terceiro;<br>
 	-Triângulo Equilátero: três lados iguais;<br>
 	-Triângulo Isósceles: quaisquer dois lados iguais;<br>
-	-Triângulo Escaleno: três lados diferentes;]()
+	-Triângulo Escaleno: três lados diferentes;](https://github.com/Giovani-Gomes/Exercicios_2-Java/tree/main/Exerc%C3%ADcio%2015)
 - [][Exercícios 16- aça um programa que calcule as raízes de uma equação do segundo grau, na forma ax2 + bx + c. O programa deverá pedir os valores de a, b e c e fazer as consistências, informando ao usuário nas seguintes situações:<br>
 Se o usuário informar o valor de A igual a zero, a equação não é do segundo grau e o programa não deve fazer pedir os demais valores, sendo encerrado;<br>
 	-Se o delta calculado for negativo, a equação não possui raizes reais. Informe ao usuário e encerre o programa;<br>
