@@ -82,7 +82,7 @@ Observando os termos no plural a colocação do "e", da vírgula entre outros. E
 	Par ou ímpar;<br>
 	Positivo ou negativo;<br>
 	Inteiro ou decimal.]()<br>
-- [][Exercícios 25- Faça um programa que faça 5 perguntas para uma pessoa sobre um crime. As perguntas são:<br>
+- [][Exercícios 25- Faça um programa que faça 5 perguntas para uma pessoa sobre um crime. As perguntas são:<br>k
 "Telefonou para a vítima?"<br>
 "Esteve no local do crime?"<br>
 "Mora perto da vítima?"<br>
