@@ -65,19 +65,19 @@ Se o usuário informar o valor de A igual a zero, a equação não é do segundo
 	-Se o delta for positivo, a equação possui duas raiz reais; informe-as ao usuário;](https://github.com/Giovani-Gomes/Exercicios_2-Java/tree/main/Exerc%C3%ADcio%2016)
 - [x][Exercícios 17- Faça um Programa que peça um número correspondente a um determinado ano e em seguida informe se este ano é ou não bissexto.](https://github.com/Giovani-Gomes/Exercicios_2-Java/tree/main/Exerc%C3%ADcio%2017)
 - [x][Exercícios 18- Faça um Programa que peça uma data no formato dd/mm/aaaa e determine se a mesma é uma data válida.](https://github.com/Giovani-Gomes/Exercicios_2-Java/tree/main/Exerc%C3%ADcio%2018)
-- [][Exercícios 19- Faça um Programa que leia um número inteiro menor que 1000 e imprima a quantidade de centenas, dezenas e unidades do mesmo.<br>
+- [x][Exercícios 19- Faça um Programa que leia um número inteiro menor que 1000 e imprima a quantidade de centenas, dezenas e unidades do mesmo.<br>
 Observando os termos no plural a colocação do "e", da vírgula entre outros. Exemplo:<br>
 	326 = 3 centenas, 2 dezenas e 6 unidades<br>
-	12 = 1 dezena e 2 unidades Testar com: 326, 300, 100, 320, 310,305, 301, 101, 311, 111, 25, 20, 10, 21, 11, 1, 7 e 16]()
-- [][Exercícios 20-Faça um Programa para leitura de três notas parciais de um aluno. O programa deve calcular a média alcançada por aluno e presentar:<br>
+	12 = 1 dezena e 2 unidades Testar com: 326, 300, 100, 320, 310,305, 301, 101, 311, 111, 25, 20, 10, 21, 11, 1, 7 e 16](https://github.com/Giovani-Gomes/Exercicios_2-Java/tree/main/Exerc%C3%ADcio%2019)
+- [x][Exercícios 20-Faça um Programa para leitura de três notas parciais de um aluno. O programa deve calcular a média alcançada por aluno e presentar:<br>
 	A mensagem "Aprovado", se a média for maior ou igual a 7, com a respectiva média alcançada;<br>
 	A mensagem "Reprovado", se a média for menor do que 7, com a respectiva média alcançada;<br>
-	A mensagem "Aprovado com Distinção", se a média for igual a 10.]()
-- [][Exercícios 21- Faça um Programa para um caixa eletrônico. O programa deverá perguntar ao usuário a valor do saque e depois informar quantas<br> notas de cada valor serão fornecidas. As notas disponíveis serão as de 1, 5, 10, 50 e 100 reais. O valor mínimo é de 10 reais e o máximo de 600 reais. O programa não deve se preocupar com a quantidade de notas existentes na máquina.<br>
+	A mensagem "Aprovado com Distinção", se a média for igual a 10.](https://github.com/Giovani-Gomes/Exercicios_2-Java/tree/main/Exerc%C3%ADcio%2020)
+- [x][Exercícios 21- Faça um Programa para um caixa eletrônico. O programa deverá perguntar ao usuário a valor do saque e depois informar quantas<br> notas de cada valor serão fornecidas. As notas disponíveis serão as de 1, 5, 10, 50 e 100 reais. O valor mínimo é de 10 reais e o máximo de 600 reais. O programa não deve se preocupar com a quantidade de notas existentes na máquina.<br>
 	Exemplo 1: Para sacar a quantia de 256 reais, o programa fornece duas notas de 100, uma nota de 50, uma nota de 5 e uma nota de 1;<br>
-	Exemplo 2: Para sacar a quantia de 399 reais, o programa fornece três notas de 100, uma nota de 50, quatro notas de 10, uma nota de 5 e quatro notas de 1.]()
-- [][Exercícios 22- Faça um Programa que peça um número inteiro e determine se ele é par ou impar. Dica: utilize o operador módulo (resto da divisão).]()
-- [][Exercícios 23- Faça um Programa que peça um número e informe se o número é inteiro ou decimal. Dica: utilize uma função de arredondamento.]()
+	Exemplo 2: Para sacar a quantia de 399 reais, o programa fornece três notas de 100, uma nota de 50, quatro notas de 10, uma nota de 5 e quatro notas de 1.](https://github.com/Giovani-Gomes/Exercicios_2-Java/tree/main/Exerc%C3%ADcio%2021)
+- [x][Exercícios 22- Faça um Programa que peça um número inteiro e determine se ele é par ou impar. Dica: utilize o operador módulo (resto da divisão).](https://github.com/Giovani-Gomes/Exercicios_2-Java/tree/main/Exerc%C3%ADcio%2022)
+- [x][Exercícios 23- Faça um Programa que peça um número e informe se o número é inteiro ou decimal. Dica: utilize uma função de arredondamento.](https://github.com/Giovani-Gomes/Exercicios_2-Java/tree/main/Exerc%C3%ADcio%2023)
 - [][Exercícios 24- Faça um Programa que leia 2 números e em seguida pergunte ao usuário qual operação ele deseja realizar. O resultado da operação deve ser acompanhado de uma frase que diga se o número é:<br>
 	Par ou ímpar;<br>
 	Positivo ou negativo;<br>
