@@ -63,8 +63,8 @@ Se o usuário informar o valor de A igual a zero, a equação não é do segundo
 	-Se o delta calculado for negativo, a equação não possui raizes reais. Informe ao usuário e encerre o programa;<br>
 	-Se o delta calculado for igual a zero a equação possui apenas uma raiz real; informe-a ao usuário;<br>
 	-Se o delta for positivo, a equação possui duas raiz reais; informe-as ao usuário;](https://github.com/Giovani-Gomes/Exercicios_2-Java/tree/main/Exerc%C3%ADcio%2016)
-- [][Exercícios 17- Faça um Programa que peça um número correspondente a um determinado ano e em seguida informe se este ano é ou não bissexto.]()
-- [][Exercícios 18- Faça um Programa que peça uma data no formato dd/mm/aaaa e determine se a mesma é uma data válida.]()
+- [x][Exercícios 17- Faça um Programa que peça um número correspondente a um determinado ano e em seguida informe se este ano é ou não bissexto.](https://github.com/Giovani-Gomes/Exercicios_2-Java/tree/main/Exerc%C3%ADcio%2017)
+- [x][Exercícios 18- Faça um Programa que peça uma data no formato dd/mm/aaaa e determine se a mesma é uma data válida.](https://github.com/Giovani-Gomes/Exercicios_2-Java/tree/main/Exerc%C3%ADcio%2018)
 - [][Exercícios 19- Faça um Programa que leia um número inteiro menor que 1000 e imprima a quantidade de centenas, dezenas e unidades do mesmo.<br>
 Observando os termos no plural a colocação do "e", da vírgula entre outros. Exemplo:<br>
 	326 = 3 centenas, 2 dezenas e 6 unidades<br>
