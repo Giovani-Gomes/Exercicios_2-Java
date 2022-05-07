@@ -78,10 +78,10 @@ Observando os termos no plural a colocação do "e", da vírgula entre outros. E
 	Exemplo 2: Para sacar a quantia de 399 reais, o programa fornece três notas de 100, uma nota de 50, quatro notas de 10, uma nota de 5 e quatro notas de 1.](https://github.com/Giovani-Gomes/Exercicios_2-Java/tree/main/Exerc%C3%ADcio%2021)
 - [x][Exercícios 22- Faça um Programa que peça um número inteiro e determine se ele é par ou impar. Dica: utilize o operador módulo (resto da divisão).](https://github.com/Giovani-Gomes/Exercicios_2-Java/tree/main/Exerc%C3%ADcio%2022)
 - [x][Exercícios 23- Faça um Programa que peça um número e informe se o número é inteiro ou decimal. Dica: utilize uma função de arredondamento.](https://github.com/Giovani-Gomes/Exercicios_2-Java/tree/main/Exerc%C3%ADcio%2023)
-- [][Exercícios 24- Faça um Programa que leia 2 números e em seguida pergunte ao usuário qual operação ele deseja realizar. O resultado da operação deve ser acompanhado de uma frase que diga se o número é:<br>
+- [x][Exercícios 24- Faça um Programa que leia 2 números e em seguida pergunte ao usuário qual operação ele deseja realizar. O resultado da operação deve ser acompanhado de uma frase que diga se o número é:<br>
 	Par ou ímpar;<br>
 	Positivo ou negativo;<br>
-	Inteiro ou decimal.]()<br>
+	Inteiro ou decimal.](https://github.com/Giovani-Gomes/Exercicios_2-Java/tree/main/Exerc%C3%ADcio%2024)<br>
 - [][Exercícios 25- Faça um programa que faça 5 perguntas para uma pessoa sobre um crime. As perguntas são:<br>k
 "Telefonou para a vítima?"<br>
 "Esteve no local do crime?"<br>
